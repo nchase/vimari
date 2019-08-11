@@ -448,13 +448,13 @@
 				CODE_SIGN_ENTITLEMENTS = vimari/vimari.entitlements;
 				CODE_SIGN_STYLE = Automatic;
 				COMBINE_HIDPI_IMAGES = YES;
-				DEVELOPMENT_TEAM = SK24TBMYCC;
+				DEVELOPMENT_TEAM = VGBVCJS5S5;
 				INFOPLIST_FILE = vimari/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/../Frameworks",
 				);
-				PRODUCT_BUNDLE_IDENTIFIER = org.vimari.vimari;
+				PRODUCT_BUNDLE_IDENTIFIER = org.ahfr.vimari;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_VERSION = 4.0;
 			};
@@ -468,13 +468,13 @@
 				CODE_SIGN_ENTITLEMENTS = vimari/vimari.entitlements;
 				CODE_SIGN_STYLE = Automatic;
 				COMBINE_HIDPI_IMAGES = YES;
-				DEVELOPMENT_TEAM = SK24TBMYCC;
+				DEVELOPMENT_TEAM = VGBVCJS5S5;
 				INFOPLIST_FILE = vimari/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/../Frameworks",
 				);
-				PRODUCT_BUNDLE_IDENTIFIER = org.vimari.vimari;
+				PRODUCT_BUNDLE_IDENTIFIER = org.ahfr.vimari;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_VERSION = 4.0;
 			};
@@ -485,14 +485,14 @@
 			buildSettings = {
 				CODE_SIGN_ENTITLEMENTS = extension/extension.entitlements;
 				CODE_SIGN_STYLE = Automatic;
-				DEVELOPMENT_TEAM = SK24TBMYCC;
+				DEVELOPMENT_TEAM = VGBVCJS5S5;
 				INFOPLIST_FILE = extension/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/../Frameworks",
 					"@executable_path/../../../../Frameworks",
 				);
-				PRODUCT_BUNDLE_IDENTIFIER = org.vimari.vimari.extension;
+				PRODUCT_BUNDLE_IDENTIFIER = org.ahfr.vimari.extension;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SKIP_INSTALL = YES;
 				SWIFT_VERSION = 4.0;
@@ -504,14 +504,14 @@
 			buildSettings = {
 				CODE_SIGN_ENTITLEMENTS = extension/extension.entitlements;
 				CODE_SIGN_STYLE = Automatic;
-				DEVELOPMENT_TEAM = SK24TBMYCC;
+				DEVELOPMENT_TEAM = VGBVCJS5S5;
 				INFOPLIST_FILE = extension/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/../Frameworks",
 					"@executable_path/../../../../Frameworks",
 				);
-				PRODUCT_BUNDLE_IDENTIFIER = org.vimari.vimari.extension;
+				PRODUCT_BUNDLE_IDENTIFIER = org.ahfr.vimari.extension;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SKIP_INSTALL = YES;
 				SWIFT_VERSION = 4.0;
